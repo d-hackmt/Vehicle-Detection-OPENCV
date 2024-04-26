@@ -13,4 +13,4 @@ This Vehicle Detection and Counting project using OpenCV can be used in a variet
  We will use the Python programming language to work with images and for image analysis, and the OpenCV computer vision library to perform the image processing tasks. There are a few libraries that can be used for detecting vehicles in images, but the one we will use is OpenCV. OpenCV can be downloaded from https://www.opencv.org/. OpenCV is a cross-platform library containing code for image processing, computer vision and machine learning. It has gained a lot of popularity due to its low memory requirements and easy integration into other programming languages. 
 
 
-![upld mp4 - VLC media player 4_25_2024 8_04_29 PM](https://github.com/d-hackmt/Vehicle-Detection-OPENCV/assets/113240252/fd787cbe-d9dd-4d2e-939f-319733526b38)
+![upld mp4 - VLC media player 4_25_2024 8_04_29 PM](https://github.com/d-hackmt/Vehicle-Detection-OPENCV/assets/113240252/fd787cbe-d9dd-4d2e-939f-319733526b38) 
